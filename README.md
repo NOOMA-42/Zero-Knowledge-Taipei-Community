@@ -8,5 +8,6 @@ Tg Group Invite Link: https://t.me/+QNV897XL8Dc2Mzg1
 * Session Schedule: https://docs.google.com/spreadsheets/d/1irekbBWbL_qFBoOvzzT1a5pdK8ln1E5z7JXC5tsVbKs/edit#gid=187530413
 * Google Meeting Link will be shared in TG group
 
-**Monday meetup at NTU math department cryptography lab**
-* Session Schedule:
+**Biweekly Monday meetup at NTU Math Department Cryptography lab**
+* Session Schedule: https://moven.notion.site/aef9deb9f6ea4e7887756edf4c28f143?v=14b70dcaeb1344afb932d518a424794b&pvs=4
+* This study group mainly focus on ZK and PQC.
