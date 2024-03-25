@@ -13,3 +13,12 @@ Event Calendar: https://lu.ma/calendar/cal-wM4BFmSsqcj4HmU
 **Biweekly Monday meetup at NTU Math Department Cryptography lab**
 * Session Schedule: https://moven.notion.site/aef9deb9f6ea4e7887756edf4c28f143?v=14b70dcaeb1344afb932d518a424794b&pvs=4
 * This study group mainly focus on ZK and PQC.
+
+## For Organizer
+
+### Event Coordination / Operation
+
+- [General notes on AV setup goal etc](https://hackmd.io/W_YRp-sdTo6AOqYER-18Gw)
+- [AV Inventory](https://hackmd.io/8Ii-qSVFSYOE4jt1XfXO-A)
+- [Playbook](https://hackmd.io/DuDCM3PqTfKgBD3HztXbpw)
+- [General care](https://hackmd.io/gAC0E_-zTqGlD-gaVfleyw)
