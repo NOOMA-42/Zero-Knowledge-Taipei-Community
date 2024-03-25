@@ -1,6 +1,8 @@
 # ZK Taiwan Community
 
-Tg Group Invite Link: https://t.me/+QNV897XL8Dc2Mzg1
+Telegram Group Invite Link: https://t.me/+QNV897XL8Dc2Mzg1
+
+Event Calendar: https://lu.ma/calendar/cal-wM4BFmSsqcj4HmU
 
 ## Meetup
 **Biweekly Tuesday meetup at Term Structure**
