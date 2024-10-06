@@ -37,4 +37,4 @@ https://tem.kktix.cc/
 ## Venue List
 To organize hackerhouse or event in Taiwan
 
-- [Venue List]([https://hackmd.io/@g8DcuSBSQgKhaDn3hsp37w/S14KYY1kyl](https://hackmd.io/@oskarth/taiwan-venues)) 
+- [Venue List](https://hackmd.io/@oskarth/taiwan-venues) 
